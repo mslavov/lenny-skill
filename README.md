@@ -7,7 +7,7 @@ CLI + agent skill for searching Lenny Rachitsky's Newsletter & Podcast archive (
 Works with Claude Code, Cursor, Codex, and [40+ other agents](https://agentskills.io):
 
 ```bash
-npx skills add milkoslavov/lenny-skill
+npx skills add mslavov/lenny-skill
 ```
 
 Or via the CLI itself:

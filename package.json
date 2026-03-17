@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milkoslavov/lenny-skill.git"
+    "url": "git+https://github.com/mslavov/lenny-skill.git"
   },
   "license": "MIT",
   "dependencies": {
