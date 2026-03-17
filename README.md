@@ -73,21 +73,6 @@ Once the skill is installed, just ask your agent naturally:
 - "Find podcast episodes about hiring"
 - "Summarize Lenny's advice on product-market fit"
 
-## Optional: MCP Server
-
-For faster, richer access, configure the lennysdata MCP server directly in your agent. Add to your MCP config:
-
-```json
-{
-  "lennysdata": {
-    "type": "streamable-http",
-    "url": "https://mcp.lennysdata.com/mcp",
-    "headers": {
-      "Authorization": "Bearer $LENNY_TOKEN"
-    }
-  }
-}
-```
 
 ## License
 

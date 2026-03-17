@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "lenny": {
+      "source": "mslavov/lenny-skill",
+      "sourceType": "github",
+      "computedHash": "66ec289ed2c55aab7b564a4d4b45dd1605f74efbf87d0b49bc02e96704bd26fe"
+    }
+  }
+}
