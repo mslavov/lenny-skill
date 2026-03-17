@@ -49,7 +49,7 @@ const program = new Command();
 program
   .name("lenny")
   .description("CLI for Lenny's Newsletter & Podcast archive")
-  .version("1.0.0")
+  .version("1.0.1")
   .option("--token <token>", "Auth token (or set LENNY_TOKEN env var)")
   .option("--json", "Output raw JSON");
 
